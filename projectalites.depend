@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702151266 source:c:\users\ram\desktop\task_dr_mahmoud\projectalites\main.cpp
+	<iostream>
+	<string>
+	<unistd.h>
+
+1702154866 source:c:\users\01287\desktop\task_dr_mahmoud\projectalites\main.cpp
+	<iostream>
+	<string>
+	<unistd.h>
+
